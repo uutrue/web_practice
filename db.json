@@ -1,0 +1,6 @@
+{
+    "web": [
+      { "class": "web1" },
+      { "class": "web2" }
+    ]
+  }
